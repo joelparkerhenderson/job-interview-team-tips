@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: Job interview team tips: how to improve first&#8209;round calls
+message: >-
+  If you use this work and you want to cite it,
+  then you can use the metadata from this file.
+type: software
+authors:
+  - given-names: Joel Parker
+    family-names: Henderson
+    email: joel@joelparkerhenderson.com
+    affiliation: joelparkerhenderson.com
+    orcid: 'https://orcid.org/0009-0000-4681-282X'
+identifiers:
+  - type: url
+    value: 'https://github.com/joelparkerhenderson/job-interview-team-tips/'
+    description: Job interview team tips: how to improve first&#8209;round calls
+repository-code: 'https://github.com/joelparkerhenderson/job-interview-team-tips/'
+abstract: >-
+  Job interview team tips: how to improve first&#8209;round calls
+license: See license file
